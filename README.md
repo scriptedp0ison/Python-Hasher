@@ -17,7 +17,7 @@ __Python-Hasher__:
 A Tool set of Hashing Algorithms, and Hashing Clients for Python3
 
 __DESCRIPTION__: A [hashing](http://www.i-programmer.info/babbages-bag/479-hashing.html) tool written in [python](https://www.python.org/) that supports hashing values such as [string](https://en.wikipedia.org/wiki/String_(computer_science)), and [integer](https://en.wikipedia.org/wiki/Integer_programming) data types.
-Supports the following Algorithms:
+Supports the following Algorithms([more on algorithms](https://en.wikipedia.org/wiki/Algorithm)):
 - MD5 
 - MD4 
 - SHA1
