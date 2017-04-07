@@ -13,7 +13,7 @@
 ```
 
            
-# Python-Hasher
+# Python-Hasher #
 A Tool set of Hashing Algorithms, and Hashing Clients for Python3
 
 DESCRIPTION: A hashing tool written in python that supports hashing values such as string, and integer data types.
